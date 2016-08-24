@@ -28,7 +28,7 @@ y=(" \nBears will come up to your car and beg for " + h + ".")
 u=("\nThey will stand on their hind legs and clap their" + g + "\ntogether and pretend to be" + f + ".")
 i=("\nBut do not get out of your " + d + " or offer the bears " + s + " or ")
 o=(a + "." + "\nThis same advice applies to other wild creatures such as"+ A +" and " + S + ".")
-p=("\nRemeber all these rules and you will spend you vacation " + D + " and not get eaten by a " + F + ".")
+p=("\nRemeber all these rules and you will spend your\nvacation " + D + " and not get eaten by a " + F + ".")
 
 
 
